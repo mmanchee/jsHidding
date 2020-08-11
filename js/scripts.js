@@ -11,3 +11,10 @@ $(document).ready(function() {
     $("#emu-fadeout").fadeToggle();
   });
 });
+
+$(document).ready(function() {
+  $(".cheetah-slide").click(function() {
+    $("#cheetah-slidein").slideToggle();
+    $("#cheetah-slideout").slideToggle();
+  });
+});
