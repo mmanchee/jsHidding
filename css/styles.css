@@ -23,3 +23,16 @@
 .emu-fade:hover {
   text-decoration: underline;
 }
+
+#cheetah-slidein {
+  display: none;
+}
+
+.cheetah-slide {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.cheetah-slide:hover {
+  text-decoration: underline;
+}
