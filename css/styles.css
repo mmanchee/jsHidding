@@ -2,11 +2,24 @@
   display: none;
 }
 
-.clickable {
+.walrus-toggle {
   cursor: pointer;
   color: #0088cc;
 }
 
-.clickable:hover {
+.walrus-toggle:hover {
+  text-decoration: underline;
+}
+
+#emu-fadein {
+  display: none;
+}
+
+.emu-fade {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.emu-fade:hover {
   text-decoration: underline;
 }
